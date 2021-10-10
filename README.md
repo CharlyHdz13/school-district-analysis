@@ -44,7 +44,23 @@ I have the data retrieved from math and reading scores from 15 schools and from 
     
     ![image](https://user-images.githubusercontent.com/89402038/136709331-3e394cb5-9107-445b-aded-fc6c0cd5aca0.png)
     
-    The table shows all the schools  and their respective values and it is ordered in descending order based on the _% Overall Passing_ values. Here we can see the that the top school is one  of the schools that spend less per student. A clear sign that spending more does not imply better performance. None of the top schools are in the higher ranges of spending.
+    The table shows all the schools  and their respective values and it is ordered in descending order based on the _% Overall Passing_ values. Here we can see the that the top school is one  of the schools that spend less per student. A clear sign that spending more does not imply better performance. None of the top schools are in the higher ranges of spending. The previous point can be seen in the following table:
+    
+    ![image](https://user-images.githubusercontent.com/89402038/136711741-e061f057-0a24-413e-b573-11028ce5a7fa.png)
+    
   - Scores by school size
+    
+    Following the same procedure as the previous point, the ranges were established as follows: Small (<1000), Medium (1000-2000) and Large (2000-5000). And the results were the following.
+    
+    ![image](https://user-images.githubusercontent.com/89402038/136712021-a14d0e88-7abb-4c19-ae5c-1600b6384c70.png)
+    
+    As we may see from the previous table the schools with the better performance were the medium ones, but the small ones are not to far behind. But what is surprising is the low overall passing percentage of the large schools. This shows that the bigger schools are having trouble focusing efficiently their resources to improve this stat.
   - Scores by school type
+    
+    The ranges for the following analysis are just by "Charter" and "District" and the table is:
+    
+    ![image](https://user-images.githubusercontent.com/89402038/136712193-8152e495-f498-4c52-bea8-823c802526c9.png)
+    
+    From the table we can see that the overall passing percentage for the "District" type is very low. Focus must be placed on improving the math average and the passing percentage for math.
 ## Summary
+In conclusion big budgets does not always mean big improvement, the data analysed is just a snapshot of what is happening. A suggestion could be to keep a watch on trends for the schools with bigger budgets to see if they improve or not. If not a suggestion would be to minimize the budget therfore pushing to a more efficient use of the resources. Also bigger schools tend to have bigger problems than smaller or medium ones, especially in maths. The focus of this schools should be in improving their math scores and keep doing the same work in reading in the short term. In the long term this schools should look forward to improve both reading and maths because they are still lagging behind in comparison to the other schools.
